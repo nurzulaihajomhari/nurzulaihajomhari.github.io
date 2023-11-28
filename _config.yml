@@ -1,4 +1,4 @@
 title: Welcome to My Portfolio
-logo: pictures/20230228_Jomhari_Nur_PIER_MM-9860.jpg
-theme: jekyll-theme-hacker
+logo: /pictures/20230228_Jomhari_Nur_PIER_MM-9860.jpg
+theme: jekyll-theme-dinky
 description: First step of building my own portfolio
