@@ -1,7 +1,14 @@
 # nurzulaihajomhari.github.io
-My portfolio for Data Science
+## My portfolio for Data Science
 
-# Hi this is Nur. Welcome to my Homepage :)
 
-Test
-![Pic](/assets/profile_picturev2.jpg)
+# Summary description about me
+I
+
+# Milestone of my career
+
+
+# My interest
+
+# My personal projects
+<!--![Pic](/assets/profile_picturev2.jpg)--> 
