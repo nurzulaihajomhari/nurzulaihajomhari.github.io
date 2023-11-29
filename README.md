@@ -3,12 +3,11 @@
 
 
 # Summary description about me
-I
+I am an experienced scientist specializing in data science and analytics in an international research collaboration. I am passionate on projects related to data e.g. processing, analyzing, validating etc. 
 
-# Milestone of my career
+<Download my CV>
 
-
-# My interest
-
-# My personal projects
+# My personal projects (See my github for details)
+1. Malaysia population
+2. ......
 <!--![Pic](/assets/profile_picturev2.jpg)--> 
