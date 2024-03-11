@@ -1,2 +1,1 @@
-# nurzulaihajomhari.github.io
-personal webpage
+Personal webpage instruction
