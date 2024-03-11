@@ -1,0 +1,2 @@
+
+Hi everyone! My name is Nur Zulaiha Jomhari. People can call me Nuha or Nur. I am from Malaysia and has been living in Hamburg, Germany since 2017. I did my Ph.D. in experimental particle physics (CMS experiment) at DESY Bahrenfeld with University Hamburg and PIER collaborations. I want to have a career in data science so I have been working on it personally during my free time. I'm still in the state of improving my webpage to make it interesting. Stay tuned! ;)
