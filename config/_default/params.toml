@@ -21,7 +21,7 @@ disableTextInHeader = false
 #defaultBackgroundImage = "kampung.jpg" # used as default for background images 
 #defaultFeaturedImage = "aurora2.jpg" # used as default for featured images in all articles
 
-highlightCurrentMenuArea = false
+highlightCurrentMenuArea = true
 smartTOC = false
 smartTOCHideUnfocusedChildren = false
 
