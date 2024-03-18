@@ -25,17 +25,17 @@
   pageRef = "projects"  
   weight = 3
  
-#[[main]]
-#  name = " PhD projects"
-#  parent = "Projects"
-#  pageRef = "ph-projects"  
-#  weight = 4
+[[main]]
+  name = " PhD projects"
+  parent = "Projects"
+  pageRef = "ph-projects"  
+  weight = 4
 
-#[[main]]
-#  name = " Data Science projects"
-#  parent = "Projects"
-#  pageRef = "personal-projects"  
-#  weight = 5
+[[main]]
+  name = " Data Science projects"
+  parent = "Projects"
+  pageRef = "personal-projects"  
+  weight = 5
   
 #[[main]]
 #  name = "example sub-menu 1"
