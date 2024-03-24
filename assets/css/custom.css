@@ -22,3 +22,15 @@ text-align: center;
   margin-left: auto;  
   margin-right: auto;  
 }
+
+.normal{
+    font-style: normal;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.oblique{
+    font-style: oblique;
+}
