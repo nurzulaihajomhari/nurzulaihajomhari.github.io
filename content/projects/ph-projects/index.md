@@ -39,7 +39,7 @@ In this work, a study on a particle called charm quark is conducted. The interac
 
 ![phase-space](/phase_graphnew.png)
 
-Figure above shows the phase space in transverse momentum vs rapidity in which different LHC experiments performed their measurements of charm quark production so far. The analyses mentioned in this figure are:[needtoupdate] As in the present analysis, these analyses measured D mesons or other charm hadrons. Some of these measurements were extrapolated to the full kinematic phase space with a large extrapolation factor in order to extract the total charm cross section. The corresponding total cross section values are thus strongly theory/model dependent. This analysis aims to cover the largest possible fraction of the total phase space in order to extract the total charm cross section with the smallest possible extrapolation, and thus smaller theoretical uncertainty. 
+Figure above shows the phase space in transverse momentum vs rapidity in which different LHC experiments performed their measurements of charm quark production so far. The analyses mentioned in this figure are: ALICE [[link1]](https://www.arxiv.org/abs/1205.4007)[[link2]](https://www.arxiv.org/abs/1901.07979)[[link3]](https://www.arxiv.org/abs/1702.00766), LHCb [[link1]](https://www.arxiv.org/abs/1610.02230)[[link2]](https://www.arxiv.org/abs/1302.2864)[[link3]](https://www.arxiv.org/abs/1510.01707), ATLAS [[link1]](https://www.arxiv.org/abs/1512.02913), CMS 5 TeV [[link1]](https://www.arxiv.org/abs/1708.04962), HIN[[link1]](https://www.arxiv.org/abs/1708.04962), and CMS 13 TeV [[link1]](https://www.arxiv.org/abs/2107.01476). As in the present analysis, these analyses measured D mesons or other charm hadrons. Some of these measurements were extrapolated to the full kinematic phase space with a large extrapolation factor in order to extract the total charm cross section. The corresponding total cross section values are thus strongly theory/model dependent. This analysis aims to cover the largest possible fraction of the total phase space in order to extract the total charm cross section with the smallest possible extrapolation, and thus smaller theoretical uncertainty. 
 
 
 ### D<sup>&lowast;</sup> Reconstruction
@@ -65,4 +65,4 @@ This is the smallest extrapolation achieved for the total charm cross section at
 
 Figure above shows prompt D<sup>&lowast;&plusmn;</sup> double differential cross section as a function of p<sub>T</sub> in |y| bins. The last bin is the overflow bin. More details about this project is documented in my thesis. It is publicly accessible via CERN [[link]](https://cds.cern.ch/record/2805338), DESY [[link]](https://bib-pubdb1.desy.de/record/476291) and University of Hamburg [[link]](https://ediss.sub.uni-hamburg.de/handle/ediss/9624) publication databases.
 
-
+---------------------------------
