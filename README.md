@@ -8,6 +8,7 @@ Quick build: Watch youtube: https://www.youtube.com/watch?v=-05mOdHmQVc
 Official documentation:
 https://blowfish.page/docs/installation/
 https://blowfish.page/examples/
+
 Creator of blowfish: https://n9o.xyz/posts/202310-blowfish-tutorial/
 
 Usage
