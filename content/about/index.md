@@ -7,6 +7,9 @@ Interview as an alumni of PIER Helmholtz Graduate School:[[link]](https://pier-h
 
 ## Achievement certificates
 
+#### Coursera course: What is Data Science
+![Cert_Coursera](/Coursera_Nur.png)
+
 
 #### Workshop on developing a career with Python
 ![Cert_Alex1](/Certificate_Transitioning_from_academia_12_2023_Jomhari1.png)
