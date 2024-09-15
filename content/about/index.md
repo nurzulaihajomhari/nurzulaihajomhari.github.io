@@ -7,11 +7,6 @@ Interview as an alumni of PIER Helmholtz Graduate School:[[link]](https://pier-h
 
 ## Achievement certificates
 
-**Upcoming certificate (end of September 2024): Education and Training as Data Scientist**
-
-#### Coursera course: Introduction to Data Management
-![Cert_Coursera_DM](/Coursera_Data_Management.png)
-
 #### Coursera course: What is Data Science
 ![Cert_Coursera](/Coursera_Nur.png)
 
