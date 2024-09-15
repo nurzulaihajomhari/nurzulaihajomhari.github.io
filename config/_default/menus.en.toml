@@ -17,7 +17,7 @@
   
 [[main]]
   name = "About me"
-  url = "/#about"
+  pageRef = "about"
   weight = 2
 
 [[main]]
