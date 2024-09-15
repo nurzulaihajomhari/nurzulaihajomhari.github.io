@@ -15,13 +15,12 @@ enableCodeCopy = false
 #mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization = false
-disableTextInHeader = false
+disableImageOptimization = false # change size of your profille pic
+disableTextInHeader = false # text on top left
 
-#defaultBackgroundImage = "kampung.jpg" # used as default for background images 
-#defaultFeaturedImage = "aurora2.jpg" # used as default for featured images in all articles
+#defaultFeaturedImage = "/img/aurora2.jpg" # used as default for featured images in all articles
 
-highlightCurrentMenuArea = true
+highlightCurrentMenuArea = true # put line under the page
 smartTOC = false
 smartTOCHideUnfocusedChildren = false
 
@@ -38,7 +37,8 @@ smartTOCHideUnfocusedChildren = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "aurora2.jpg" # used in: hero, and card
+  #homepageImage = "/img/aurora2.jpg" # used in: hero, and card
+  homepageImage = "aurora2.jpg"  
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
@@ -76,7 +76,7 @@ smartTOCHideUnfocusedChildren = false
   showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = false
-
+  
 [list]
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
