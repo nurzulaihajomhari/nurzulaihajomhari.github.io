@@ -7,7 +7,7 @@
 
 colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 
 enableSearch = false
 enableCodeCopy = false
@@ -15,13 +15,12 @@ enableCodeCopy = false
 #mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization = false
-disableTextInHeader = false
+disableImageOptimization = false # change size of your profille pic
+disableTextInHeader = false # text on top left
 
-#defaultBackgroundImage = "kampung.jpg" # used as default for background images 
-#defaultFeaturedImage = "aurora2.jpg" # used as default for featured images in all articles
+#defaultFeaturedImage = "/img/aurora2.jpg" # used as default for featured images in all articles
 
-highlightCurrentMenuArea = true
+highlightCurrentMenuArea = true # put line under the page
 smartTOC = false
 smartTOCHideUnfocusedChildren = false
 
@@ -37,15 +36,16 @@ smartTOCHideUnfocusedChildren = false
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "aurora2.jpg" # used in: hero, and card
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
+  #homepageImage = "/img/aurora2.jpg" # used in: hero, and card
+  homepageImage = "/img/background.svg"  
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
-  #showMoreLinkDest = "/posts"
+  showMoreLinkDest = "/posts"
   cardView = false
   cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
+  layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = false
@@ -76,7 +76,8 @@ smartTOCHideUnfocusedChildren = false
   showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = false
-
+  showSummary = true
+  
 [list]
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
