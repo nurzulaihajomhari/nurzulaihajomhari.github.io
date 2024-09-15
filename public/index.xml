@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Personal Webpage (Work in progress)</title>
+    <title>My Personal Website (Work in progress)</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My Personal Webpage (Work in progress)</description>
+    <description>Recent content on My Personal Website (Work in progress)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nur Zulaiha Jomhari</copyright>
@@ -14,7 +14,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
-      <description>Hi everyone!</description>
+      <description>About me # Hi everyone!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/featured_kampung.jpg" />
     </item>
     
