@@ -6,14 +6,25 @@ Interview as an alumni of PIER Helmholtz Graduate School:[[link]](https://pier-h
 ------------------------------------------
 
 ## Achievement certificates
-**Upcoming certificate (end of September 2024): Education and Training as Data Scientist**
+
+#### Data science, Machine learning and AI
+![Cert_neuefische1](/certificate_neuefische1.png)
+![Cert_neuefische2](/certificate_neuefische2.png)
 
 #### Coursera course: Introduction to Data Management
 ![Cert_Coursera_DM](/Coursera_Data_Management.png)
 
+#### Coursera course: Get started with JIRA
+![Cert_Coursera_JIRA1](/Coursera_Get_started_with_JIRA.png)
+
+#### Coursera course: Automate tasks and processes with JIRA
+![Cert_Coursera_JIRA1](/Coursera_automate_task_and_processes_in_JIRA.png)
+
+#### Coursera course: How to create a Jira SCRUM project
+![Cert_Coursera_JIRA1](/Coursera_JIRA_SCRUM_Project.png)
+
 #### Coursera course: What is Data Science
 ![Cert_Coursera](/Coursera_Nur.png)
-
 
 #### Workshop on developing a career with Python
 ![Cert_Alex1](/Certificate_Transitioning_from_academia_12_2023_Jomhari1.png)
